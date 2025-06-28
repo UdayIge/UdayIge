@@ -15,7 +15,7 @@
     <td colspan="2" align="center">
       <a href="https://git.io/streak-stats">
         <img
-          src="https://streak-stats.demolab.com?user=udayige&theme=gruvbox-duo&hide_border=true&border_radius=0&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&background=FFFFFF00"
+          src="https://streak-stats.demolab.com?user=udayige&theme=transparent&hide_border=true&border_radius=0&dates=4EA4A5"
           alt="GitHub Streak" />
       </a>
     </td>
