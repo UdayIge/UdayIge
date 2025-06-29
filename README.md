@@ -1,4 +1,4 @@
-<table border="1" cellpadding="0" cellspacing="0" align="center">
+<table border="0" cellpadding="0" cellspacing="0" align="center">
   <tr>
     <td  align="center">
       <img height="180em"
