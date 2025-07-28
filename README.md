@@ -26,6 +26,5 @@
         alt="GitHub Activity Graph" style="border-radius: 2px;" />
     </td>
   </tr>
-  ,
 </table>
 
