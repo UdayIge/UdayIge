@@ -13,11 +13,11 @@
   </tr>
   
 <tr>
-<!--     <td colspan="2" align="center">
+    <td colspan="2" align="center">
         <img
           src="https://github-readme-streak-stats.herokuapp.com/?user=udayige&cache_bust=1&theme=transparent&hide_border=true&border_radius=0&dates=4EA4A5"
           alt="GitHub Streak" />
-    </td> -->
+    </td>
 </tr> 
   <tr>
     <td colspan="2" align="center">
