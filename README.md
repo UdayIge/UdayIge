@@ -1,5 +1,5 @@
 <table border="0" cellpadding="0" cellspacing="0" align="center">
-  <tr>
+  <!-- <tr>
     <td  align="center">
       <img height="180em"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=udayige&layout=compact&theme=soft&hide_border=true&exclude_repo=CaseStudy_SalesDataAnalysis&bg_color=00000000&title_color=0091ff&text_color=66aaff"
@@ -11,8 +11,7 @@
         alt="GitHub Stats" />
     </td>
   </tr>
-  
-<tr>
+<tr> -->
     <td colspan="2" align="center">
         <img
           src="https://github-readme-streak-stats.herokuapp.com/?user=udayige&cache_bust=1&theme=transparent&hide_border=true&border_radius=0&dates=4EA4A5"
