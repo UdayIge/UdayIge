@@ -54,15 +54,24 @@ Solapur, Maharashtra, India
 
 ---
 
-## GitHub Widgets (Ready-to-Use Placeholders)
+## GitHub Activity
 
-```md
-![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=udayige&show_icons=true&hide_border=true&theme=transparent&bg_color=00000000&title_color=0f172a&text_color=334155&icon_color=2563eb)
-```
-
-```md
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=udayige&layout=compact&hide_border=true&theme=transparent&bg_color=00000000&title_color=0f172a&text_color=334155)
-```
+<table border="0" cellpadding="0" cellspacing="0" align="center">
+  <tr>
+    <td colspan="2" align="center">
+      <img
+        src="https://github-readme-streak-stats.herokuapp.com/?user=udayige&cache_bust=1&theme=transparent&hide_border=true&border_radius=0&dates=4EA4A5"
+        alt="GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img
+        src="https://github-readme-activity-graph.vercel.app/graph?username=udayige&bg_color=transparent&color=009dff&line=0091ff&point=c2e4ff&area=true&hide_border=true"
+        alt="GitHub Activity Graph" style="border-radius: 2px;" />
+    </td>
+  </tr>
+</table>
 
 ---
 
