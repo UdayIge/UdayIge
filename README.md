@@ -77,5 +77,4 @@ Solapur, Maharashtra, India
 
 ## Connect
 LinkedIn: [linkedin.com/in/uday-ige](https://linkedin.com/in/uday-ige)  
-Portfolio: [Add your portfolio link](#)  
 Email: [udayige1696@gmail.com](mailto:udayige1696@gmail.com)
