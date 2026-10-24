@@ -1,7 +1,7 @@
 ## Hello, I am Uday Ige
 **Front-End Engineer focused on scalable React/Next.js product experiences, UI architecture, and performance-first web delivery.**
 
-Solapur, Maharashtra, India  
+Mumbai, Maharashtra, India  
 [LinkedIn](https://linkedin.com/in/uday-ige) · [GitHub](https://github.com/udayige) · [Email](mailto:udayige1696@gmail.com)
 
 ---
